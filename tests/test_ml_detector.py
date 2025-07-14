@@ -4,7 +4,7 @@ import sys
 import os
 
 sys.path.append(os.path.join(os.path.dirname(__file__), '..', 'src'))
-from anomaly_detector import BatteryAnomalyDetector
+from src.anomaly_detector import BatteryAnomalyDetector
 
 @pytest.fixture
 def sample_data():
