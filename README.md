@@ -1,4 +1,4 @@
-# 🔋 Battery Lab Automation - Enhanced Edition
+# 🔋 Battery Lab Automation - Anomaly Detection & Dashboard Deployment
 
 Advanced analytics and anomaly detection for electric vehicle battery data with machine learning capabilities, comprehensive testing, and professional documentation.
 
@@ -55,7 +55,12 @@ streamlit run src/production_dashboard.py
 ```
 Access the dashboard at [http://localhost:5000](http://localhost:5000).
 
-## 🔮 Future Enhancements
-- Add support for real-time data ingestion.
-- Enhance ML model with deep learning methods.
-- Deploy the dashboard as a cloud-based solution.
+## Dashboard Previews
+
+<img width="1708" height="940" alt="Screenshot 2025-07-14 at 19 22 18" src="https://github.com/user-attachments/assets/4790d15d-c6b9-4339-a798-9fe2ede490dd" />
+
+
+<img width="1710" height="941" alt="Screenshot 2025-07-14 at 19 22 05" src="https://github.com/user-attachments/assets/8cdd24fa-f213-4da0-a77b-15cb3e285c69" />
+
+
+<img width="1709" height="945" alt="Screenshot 2025-07-14 at 19 21 05" src="https://github.com/user-attachments/assets/b8051503-31d3-49b2-b995-a9890f732670" />
