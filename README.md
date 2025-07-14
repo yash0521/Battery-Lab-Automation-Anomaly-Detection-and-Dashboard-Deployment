@@ -17,6 +17,9 @@ Advanced analytics and anomaly detection for electric vehicle battery data with 
 pip install -r requirements.txt
 pip install -r requirements-dev.txt
 
+# Start Jupyter Notebook
+jupyter notebook battery.ipynb
+
 # Run enhanced dashboard
 streamlit run src/production_dashboard.py
 
